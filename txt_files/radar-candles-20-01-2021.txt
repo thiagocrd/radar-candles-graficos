@@ -1,0 +1,46 @@
+#RadarDeCandles 📡
+20/01/2021 (após fechamento do mercado)
+Ações do #IBOV no gráfico 1D
+
+Engolfo de baixa
+#ABEV3
+#EGIE3
+#LREN3
+#PCAR3
+#TAEE11
+
+Dark cloud cover
+#BPAC11
+#HYPE3
+
+Dragonfly doji
+#BRFS3
+#UGPA3
+#VIVT3
+
+Shooting star e Harami de topo
+#BRKM5
+
+Shooting star
+#KLBN11
+#SUZB3
+
+Martelo
+#BRML3
+#ENGI11
+#GOLL4
+
+Harami de fundo e Harami cross
+#COGN3
+#CSNA3
+#IRBR3
+#JHSF3
+
+Harami de fundo
+#VVAR3
+
+Hanging man
+#GNDI3
+
+Evening star
+#RADL3
