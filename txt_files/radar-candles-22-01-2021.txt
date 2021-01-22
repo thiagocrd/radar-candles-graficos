@@ -1,0 +1,31 @@
+#RadarDeCandles 📡
+22/01/2021 (após fechamento do mercado)
+Ações do #IBOV no gráfico 1D
+
+Dragonfly doji
+#BBAS3
+#CIEL3
+#CSAN3
+#ECOR3
+#EGIE3
+#LCAM3
+#MRFG3
+#PCAR3
+
+Engolfo de alta
+#BRFS3
+#CSNA3
+#GGBR4
+#SBSP3
+#VIVT3
+
+Shooting star
+#BTOW3
+
+Martelo
+#COGN3
+#CPLE6
+#QUAL3
+
+Gravestone doji
+#HAPV3
