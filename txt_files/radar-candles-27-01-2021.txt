@@ -1,0 +1,35 @@
+#RadarDeCandles 📡
+27/01/2021 (após fechamento do mercado)
+Ações do #IBOV no gráfico 1D
+
+Harami de fundo
+#COGN3
+#CYRE3
+
+Piercing pattern
+#BBAS3
+#BBDC4
+#CSAN3
+#CVCB3
+#EGIE3
+#ENBR3
+#MRFG3
+
+Engolfo de alta
+#CCRO3
+#EMBR3
+#GOLL4
+#PETR4
+
+Engolfo de baixa
+#HAPV3
+#KLBN11
+#SUZB3
+
+Martelo
+#GGBR4
+#GOAU4
+#USIM5
+
+Evening star
+#TOTS3
